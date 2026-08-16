@@ -8,8 +8,8 @@
 
 
 
-💻 &nbsp;Sou **Software Developer (Back-end)** e **SaaS Founder**.\
-🎓 &nbsp;Graduando em **Sistemas de Informação** pela UFSC.\
+💻 &nbsp;Sou **Software Developer (Back-end)** e **SaaS Founder**.    \
+🎓 &nbsp;Graduando em **Sistemas de Informação** pela UFSC.    \
 ⚙️ &nbsp;Stacks principais: `Node.js`, `Express`, `Docker`, `PostgreSQL`.\
 🧩 &nbsp;Domino o ciclo completo do produto | Da idealização ao lucro.\
 💬 &nbsp;Inglês fluente.
