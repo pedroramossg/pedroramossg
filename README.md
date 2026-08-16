@@ -1,8 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=276DC3&size=45&center=false&vCenter=true&width=1000&lines=Welcome+to+my+Github!+~Pedro+Ramos+∠↝)
 #  
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/6a/32/7c/6a327caa4b5c102de396a1c3aaa20e98.gif" width="400" height="250"/>
+<br>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/36/e4/d0/36e4d0b856694fc471344b644a1dd6e4.gif" width="500" height="281"/>
 <br>
 <br>
+<br>
+
+
 
 💻 &nbsp;Sou **Software Developer (Back-end)** e **SaaS Founder**.\
 🎓 &nbsp;Graduando em **Sistemas de Informação** pela UFSC.\
@@ -11,15 +15,20 @@
 💬 &nbsp;Inglês fluente.
 \
 <br>
-
-#  
 <br>
 
-## 🛠️ Habilidades e Tecnologias
+<br>
+<br>
 
+
+## 🛠️ Habilidades e Tecnologias
+<br>
 <div align="right">
-  <img align="right" src="https://i.pinimg.com/originals/2c/80/7e/2c807e3352932c024d27771b489d21bb.gif" width="400" height="400"/>
+  <img align="right" src="https://github.com/user-attachments/assets/9a613207-2883-4ab0-95c9-8c63003fb782" width="500" height="500"/>
 </div>
+
+<br>
+<br>
 
 Minhas principais habilidades, ferramentas e infraestrutura incluem:
 
@@ -46,9 +55,12 @@ Minhas principais habilidades, ferramentas e infraestrutura incluem:
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
 ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0467DF?style=flat&logo=meta&logoColor=white)
 ![CRM](https://img.shields.io/badge/CRM-2C2D72?style=flat&logo=salesforce&logoColor=white)
+<br>
+<br>
+<br>
+<br>
 
-
-#  
+  
 <br>
 
 ###
@@ -60,6 +72,5 @@ Minhas principais habilidades, ferramentas e infraestrutura incluem:
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pedro.ramos.gerhardt@gmail.com) <!-- Coloque seu email aqui -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ramos-1261533b7) <!-- Coloque seu linkedin aqui -->
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-4FCE5D?style=flat&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send/?phone=55XXXXXXXXX) <!-- Coloque seu numero aqui -->
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=pedrogerhardt.pedrogerhardt&"/>
